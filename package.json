@@ -1,10 +1,10 @@
 {
   "scripts": {
     "lint": "echo \"Right!!!!!\""
-  },
+  }
   "pre-commit": [
     "lint"
-  ],
+  ]
   "devDependencies": {
     "eslint": "^2.12.0",
     "pre-commit": "^1.1.3"
